@@ -21,7 +21,7 @@ Start the server:
 $ cd spring-cloud-mail-service
 $ mvn spring-boot:run
 ```
-By default application use port 8081, so check that it is available. The server is a Spring Boot application so you can run it from your IDE instead if you prefer (the main class is MailServiceApplication).
+By default application use port 8081, check that it is available. The server is a Spring Boot application so you can run it from your IDE instead if you prefer (the main class is MailServiceApplication).
 
 Then you can send e-mail:
 ```
