@@ -1,0 +1,16 @@
+spring:
+  cloud:
+    mail:
+      service:
+        mail:
+          host: smtp.yandex.ru
+          port: 465
+          username: username@yandex.ru
+          password: password
+          auth: true
+          ssl: true
+          protocol: smtp
+          allow8bitmime: true
+
+server:
+  port: 8081
