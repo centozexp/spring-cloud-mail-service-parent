@@ -13,6 +13,8 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+.gradle/
+gradle/
 
 # Eclipse Core
 .project

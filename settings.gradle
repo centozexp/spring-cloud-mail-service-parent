@@ -1,0 +1,3 @@
+rootProject.name = 'spring-cloud-mail-service-parent'
+
+include 'spring-cloud-mail-service', 'spring-cloud-mail-client', 'spring-cloud-mail-sample'
